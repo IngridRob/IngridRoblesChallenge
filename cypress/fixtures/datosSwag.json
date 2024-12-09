@@ -1,0 +1,19 @@
+{
+  "invalid": {
+    "username": "TEST",
+    "password": "testtest"
+  },
+  "user1": {
+    "username": "standard_user",
+    "password": "secret_sauce"
+  },
+  "user2": {
+    "username": "problem_user",
+    "password": "secret_sauce"
+  },
+  "checkout": {
+    "firstName": "Ingrid",
+    "lastName": "Robles",
+    "zipCode": "54321"
+  }
+}
